@@ -41,4 +41,11 @@
   + Creación de Objetos en Java
   
 ### Leccion 11 - Constructores
+
   + Creacion de contructor
+
+### Leccion 12 - Alcance de variables
+
+  + Ejercicio Alcance de Variables
+  + Laboratorio Figura Geometrica (Calcular el volumen de una caja)
+  
